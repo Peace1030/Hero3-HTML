@@ -1,4 +1,4 @@
-# github_contributors_app
+# Hero 3 Game Web Site - Draft
 
 <h2>
 - Main Dashboard page
